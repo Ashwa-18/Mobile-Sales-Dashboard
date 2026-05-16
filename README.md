@@ -18,15 +18,6 @@ An interactive Power BI dashboard designed to analyze mobile sales performance, 
 - Power Query
 - R Programming
 
-## 📷 Dashboard Preview
-
-### Dashboard Overview
-![Dashboard 1](PowerBI_Project/PB1.png)
-
-### Sales Insights
-![Dashboard 2](PowerBI_Project/PB2.png)
-
----
 
 # 📈 R Programming Project
 
@@ -42,16 +33,6 @@ A data visualization project created using R Programming to generate analytical 
 - R Programming
 - ggplot2
 - dplyr
-
-## 📷 Output Preview
-
-### Visualization 1
-![Output 1](R_Project/R1.png)
-
-### Visualization 2
-![Output 2](R_Project/R2.png)
-
----
 
 # 📂 Files Included
 - Power BI Dashboard (.pbix)
